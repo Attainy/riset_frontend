@@ -130,14 +130,14 @@
   <div>
     <h3>일정</h3>
     <ul>
-      <li><b>fullcalendar</b>를 사용한 공식일정 달력 기능</li>
+      <li><b>Fullcalendar</b>를 사용한 공식일정 달력 기능</li>
       <li>날짜별 개인일정 관리 기능</li>
     </ul>
   </div>
   <div>
     <h3>채팅</h3>
     <ul>
-      <li><b>websocket</b>과 <b>stompJS</b>를 사용한 1:1 및 그룹 실시간 채팅 기능</li>
+      <li><b>WebSocket</b>과 <b>StompJS</b>를 사용한 1:1 및 그룹 실시간 채팅 기능</li>
     </ul>
   </div>
 </div>
