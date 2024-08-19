@@ -61,7 +61,7 @@
 
 <div>
   <h2>🗺️ Demo</h2>
-  <p><b>전체 페이지 확인 :</b> https://www.notion.so/Riset-c5f9828ccb86492b970994ac1aca4252</p>
+  <p><b>전체 페이지 확인 :</b> https://yunicornlab00.notion.site/Riset-bf603a78298040869331a740f65ea49a?pvs=74</p>
   <p>❣️ <b>페이지가 많아서 일부분만을 간추려서 보여드립니다.</b></p>
   <div>
     <h3>회원가입, 로그인</h3>
@@ -104,7 +104,7 @@
 
 <div>
   <h2>⭐ Main Feature</h2>
-  <p><b>세부 기능 확인 :</b> https://www.notion.so/Riset-c5f9828ccb86492b970994ac1aca4252</p>
+  <p><b>세부 기능 확인 :</b> https://yunicornlab00.notion.site/Riset-bf603a78298040869331a740f65ea49a?pvs=74 </p>
   <div>
     <h3>회원가입, 로그인</h3>
     <ul>
